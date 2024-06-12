@@ -127,7 +127,9 @@ If you would like to contribute to this project, please fork the repository and 
 
 ## Contact
 
-For any questions or support, please contact [jai77bhati@gmail.com].
+For any questions or support, please contact jai77bhati@gmail.com
+
+
 Linkedin- https://www.linkedin.com/in/jayant-bhati-263206259/
 
 ---
